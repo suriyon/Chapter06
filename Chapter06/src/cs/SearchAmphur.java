@@ -23,5 +23,4 @@ public class SearchAmphur {
 			JOptionPane.showMessageDialog(null, "เสียใจด้วยไม่มีอำเภอที่คุณค้นหา");
 		}
 	}
-
 }
